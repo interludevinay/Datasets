@@ -1,0 +1,1000 @@
+Year,Company,Model,KM,Owner,Type,Price
+2011,Honda, Accord,30995,2nd Owner,Petrol,1004000
+2011,Honda, Accord,73804,2nd Owner,Diesel,361000
+2011,Honda, Accord,25279,3rd Owner,Petrol,327000
+2011,Honda, Accord,35391,2nd Owner,Petrol,278000
+2011,Honda, Accord,20089,2nd Owner,Petrol,967000
+2011,Honda, Accord,82310,2nd Owner,Diesel,449000
+2011,Honda, Accord,63319,2nd Owner,Diesel,656000
+2011,Honda, Accord,45203,1st Owner,Petrol,741000
+2011,Honda, Accord,23424,2nd Owner,CNG,838000
+2011,Honda, Accord,81347,1st Owner,Petrol,844000
+2011,Honda, Accord,67224,1st Owner,Petrol,834000
+2011,Honda, Accord,96059,1st Owner,Petrol,413000
+2011,Honda, Accord,38663,1st Owner,Petrol,1051000
+2011,Honda, Accord,59563,2nd Owner,Petrol,569000
+2011,Honda, Accord,54202,1st Owner,CNG,632000
+2011,Honda, Accord,11709,2nd Owner,Diesel,443000
+2011,Honda, Accord,17167,1st Owner,Petrol,789000
+2011,Honda, Accord,30501,1st Owner,CNG,761000
+2011,Honda, Accord,67187,1st Owner,CNG,595000
+2017,Honda, WR-V,99882,1st Owner,Petrol,1004000
+2017,Honda, WR-V,30995,2nd Owner,Petrol,361000
+2017,Honda, WR-V,73804,2nd Owner,Diesel,327000
+2017,Honda, WR-V,25279,3rd Owner,Petrol,278000
+2017,Honda, WR-V,35391,2nd Owner,Petrol,967000
+2017,Honda, WR-V,20089,2nd Owner,Petrol,449000
+2017,Honda, WR-V,82310,2nd Owner,Diesel,656000
+2017,Honda, WR-V,63319,2nd Owner,Diesel,741000
+2017,Honda, WR-V,45203,1st Owner,Petrol,838000
+2017,Honda, WR-V,23424,2nd Owner,CNG,844000
+2017,Honda, WR-V,81347,1st Owner,Petrol,834000
+2017,Honda, WR-V,67224,1st Owner,Petrol,413000
+2017,Honda, WR-V,96059,1st Owner,Petrol,1051000
+2017,Honda, WR-V,38663,1st Owner,Petrol,569000
+2017,Honda, WR-V,59563,2nd Owner,Petrol,632000
+2017,Honda, WR-V,54202,1st Owner,CNG,443000
+2017,Honda, WR-V,11709,2nd Owner,Diesel,789000
+2017,Honda, WR-V,17167,1st Owner,Petrol,761000
+2017,Honda, WR-V,30501,1st Owner,CNG,595000
+2017,Honda, WR-V,67187,1st Owner,CNG,1004000
+2016,Mahindra,XUV500,99882,1st Owner,Petrol,361000
+2016,Mahindra,XUV500,30995,2nd Owner,Petrol,327000
+2016,Mahindra,XUV500,73804,2nd Owner,Diesel,278000
+2016,Mahindra,XUV500,25279,3rd Owner,Petrol,967000
+2016,Mahindra,XUV500,35391,2nd Owner,Petrol,449000
+2016,Mahindra,XUV500,20089,2nd Owner,Petrol,656000
+2016,Mahindra,XUV500,82310,2nd Owner,Diesel,741000
+2016,Mahindra,XUV500,63319,2nd Owner,Diesel,838000
+2016,Mahindra,XUV500,45203,1st Owner,Petrol,844000
+2016,Mahindra,XUV500,23424,2nd Owner,CNG,834000
+2016,Mahindra,XUV500,81347,1st Owner,Petrol,413000
+2016,Mahindra,XUV500,67224,1st Owner,Petrol,1051000
+2016,Mahindra,XUV500,96059,1st Owner,Petrol,569000
+2016,Mahindra,XUV500,38663,1st Owner,Petrol,632000
+2016,Mahindra,XUV500,59563,2nd Owner,Petrol,443000
+2016,Mahindra,XUV500,54202,1st Owner,CNG,789000
+2016,Mahindra,XUV500,11709,2nd Owner,Diesel,761000
+2016,Mahindra,XUV500,17167,1st Owner,Petrol,595000
+2016,Mahindra,XUV500,30501,1st Owner,CNG,1004000
+2016,Mahindra,XUV500,67187,1st Owner,CNG,361000
+2017,Maruti,Celerio,99882,1st Owner,Petrol,327000
+2017,Maruti,Celerio,30995,2nd Owner,Petrol,278000
+2017,Maruti,Celerio,73804,2nd Owner,Diesel,967000
+2017,Maruti,Celerio,25279,3rd Owner,Petrol,449000
+2017,Maruti,Celerio,35391,2nd Owner,Petrol,656000
+2017,Maruti,Celerio,20089,2nd Owner,Petrol,741000
+2017,Maruti,Celerio,82310,2nd Owner,Diesel,838000
+2017,Maruti,Celerio,63319,2nd Owner,Diesel,844000
+2017,Maruti,Celerio,45203,1st Owner,Petrol,834000
+2017,Maruti,Celerio,23424,2nd Owner,CNG,413000
+2017,Maruti,Celerio,81347,1st Owner,Petrol,1051000
+2017,Maruti,Celerio,67224,1st Owner,Petrol,569000
+2017,Maruti,Celerio,96059,1st Owner,Petrol,632000
+2017,Maruti,Celerio,38663,1st Owner,Petrol,443000
+2017,Maruti,Celerio,59563,2nd Owner,Petrol,789000
+2017,Maruti,Celerio,54202,1st Owner,CNG,761000
+2017,Maruti,Celerio,11709,2nd Owner,Diesel,595000
+2017,Maruti,Celerio,17167,1st Owner,Petrol,1004000
+2017,Maruti,Celerio,30501,1st Owner,CNG,361000
+2017,Maruti,Celerio,67187,1st Owner,CNG,327000
+2012,Maruti,Swift,99882,1st Owner,Petrol,278000
+2012,Maruti,Swift,30995,2nd Owner,Petrol,967000
+2012,Maruti,Swift,73804,2nd Owner,Diesel,449000
+2012,Maruti,Swift,25279,3rd Owner,Petrol,656000
+2012,Maruti,Swift,35391,2nd Owner,Petrol,741000
+2012,Maruti,Swift,20089,2nd Owner,Petrol,838000
+2012,Maruti,Swift,82310,2nd Owner,Diesel,844000
+2012,Maruti,Swift,63319,2nd Owner,Diesel,834000
+2012,Maruti,Swift,45203,1st Owner,Petrol,413000
+2012,Maruti,Swift,23424,2nd Owner,CNG,1051000
+2012,Maruti,Swift,81347,1st Owner,Petrol,569000
+2012,Maruti,Swift,67224,1st Owner,Petrol,632000
+2012,Maruti,Swift,96059,1st Owner,Petrol,443000
+2012,Maruti,Swift,38663,1st Owner,Petrol,789000
+2012,Maruti,Swift,59563,2nd Owner,Petrol,761000
+2012,Maruti,Swift,54202,1st Owner,CNG,595000
+2012,Maruti,Swift,11709,2nd Owner,Diesel,1004000
+2012,Maruti,Swift,17167,1st Owner,Petrol,361000
+2012,Maruti,Swift,30501,1st Owner,CNG,327000
+2012,Maruti,Swift,67187,1st Owner,CNG,278000
+2016,Renault,Kwid,99882,1st Owner,Petrol,967000
+2016,Renault,Kwid,30995,2nd Owner,Petrol,449000
+2016,Renault,Kwid,73804,2nd Owner,Diesel,656000
+2016,Renault,Kwid,25279,3rd Owner,Petrol,741000
+2016,Renault,Kwid,35391,2nd Owner,Petrol,838000
+2016,Renault,Kwid,20089,2nd Owner,Petrol,844000
+2016,Renault,Kwid,82310,2nd Owner,Diesel,834000
+2016,Renault,Kwid,63319,2nd Owner,Diesel,413000
+2016,Renault,Kwid,45203,1st Owner,Petrol,1051000
+2016,Renault,Kwid,23424,2nd Owner,CNG,569000
+2016,Renault,Kwid,81347,1st Owner,Petrol,632000
+2016,Renault,Kwid,67224,1st Owner,Petrol,443000
+2016,Renault,Kwid,96059,1st Owner,Petrol,789000
+2016,Renault,Kwid,38663,1st Owner,Petrol,761000
+2016,Renault,Kwid,59563,2nd Owner,Petrol,595000
+2016,Renault,Kwid,54202,1st Owner,CNG,1004000
+2016,Renault,Kwid,11709,2nd Owner,Diesel,361000
+2016,Renault,Kwid,17167,1st Owner,Petrol,327000
+2016,Renault,Kwid,30501,1st Owner,CNG,278000
+2016,Renault,Kwid,67187,1st Owner,CNG,967000
+2014,Toyota,Innova,99882,1st Owner,Petrol,449000
+2014,Toyota,Innova,30995,2nd Owner,Petrol,656000
+2014,Toyota,Innova,73804,2nd Owner,Diesel,741000
+2014,Toyota,Innova,25279,3rd Owner,Petrol,838000
+2014,Toyota,Innova,35391,2nd Owner,Petrol,844000
+2014,Toyota,Innova,20089,2nd Owner,Petrol,834000
+2014,Toyota,Innova,82310,2nd Owner,Diesel,413000
+2014,Toyota,Innova,63319,2nd Owner,Diesel,1051000
+2014,Toyota,Innova,45203,1st Owner,Petrol,569000
+2014,Toyota,Innova,23424,2nd Owner,CNG,632000
+2014,Toyota,Innova,81347,1st Owner,Petrol,443000
+2014,Toyota,Innova,67224,1st Owner,Petrol,789000
+2014,Toyota,Innova,96059,1st Owner,Petrol,761000
+2014,Toyota,Innova,38663,1st Owner,Petrol,595000
+2014,Toyota,Innova,59563,2nd Owner,Petrol,1004000
+2014,Toyota,Innova,54202,1st Owner,CNG,361000
+2014,Toyota,Innova,11709,2nd Owner,Diesel,327000
+2014,Toyota,Innova,17167,1st Owner,Petrol,278000
+2014,Toyota,Innova,30501,1st Owner,CNG,967000
+2014,Toyota,Innova,67187,1st Owner,CNG,449000
+2012,Volkswagen,Jetta,99882,1st Owner,Petrol,656000
+2012,Volkswagen,Jetta,30995,2nd Owner,Petrol,741000
+2012,Volkswagen,Jetta,73804,2nd Owner,Diesel,838000
+2012,Volkswagen,Jetta,25279,3rd Owner,Petrol,844000
+2012,Volkswagen,Jetta,35391,2nd Owner,Petrol,834000
+2012,Volkswagen,Jetta,20089,2nd Owner,Petrol,413000
+2012,Volkswagen,Jetta,82310,2nd Owner,Diesel,1051000
+2012,Volkswagen,Jetta,63319,2nd Owner,Diesel,569000
+2012,Volkswagen,Jetta,45203,1st Owner,Petrol,632000
+2012,Volkswagen,Jetta,23424,2nd Owner,CNG,443000
+2012,Volkswagen,Jetta,81347,1st Owner,Petrol,789000
+2012,Volkswagen,Jetta,67224,1st Owner,Petrol,761000
+2012,Volkswagen,Jetta,96059,1st Owner,Petrol,595000
+2012,Volkswagen,Jetta,38663,1st Owner,Petrol,1004000
+2012,Volkswagen,Jetta,59563,2nd Owner,Petrol,361000
+2012,Volkswagen,Jetta,54202,1st Owner,CNG,327000
+2012,Volkswagen,Jetta,11709,2nd Owner,Diesel,278000
+2012,Volkswagen,Jetta,17167,1st Owner,Petrol,967000
+2012,Volkswagen,Jetta,30501,1st Owner,CNG,449000
+2012,Volkswagen,Jetta,67187,1st Owner,CNG,656000
+2015,Hyundai,Hundai,99882,1st Owner,Petrol,741000
+2015,Hyundai,Hundai,30995,2nd Owner,Petrol,838000
+2015,Hyundai,Hundai,73804,2nd Owner,Diesel,844000
+2015,Hyundai,Hundai,25279,3rd Owner,Petrol,834000
+2015,Hyundai,Hundai,35391,2nd Owner,Petrol,413000
+2015,Hyundai,Hundai,20089,2nd Owner,Petrol,1051000
+2015,Hyundai,Hundai,82310,2nd Owner,Diesel,569000
+2015,Hyundai,Hundai,63319,2nd Owner,Diesel,632000
+2015,Hyundai,Hundai,45203,1st Owner,Petrol,443000
+2015,Hyundai,Hundai,23424,2nd Owner,CNG,789000
+2015,Hyundai,Hundai,81347,1st Owner,Petrol,761000
+2015,Hyundai,Hundai,67224,1st Owner,Petrol,595000
+2015,Hyundai,Hundai,96059,1st Owner,Petrol,1004000
+2015,Hyundai,Hundai,38663,1st Owner,Petrol,361000
+2015,Hyundai,Hundai,59563,2nd Owner,Petrol,327000
+2015,Hyundai,Hundai,54202,1st Owner,CNG,278000
+2015,Hyundai,Hundai,11709,2nd Owner,Diesel,967000
+2015,Hyundai,Hundai,17167,1st Owner,Petrol,449000
+2015,Hyundai,Hundai,30501,1st Owner,CNG,656000
+2015,Hyundai,Hundai,67187,1st Owner,CNG,741000
+2021,Maruti,Swift Dzire,99882,1st Owner,Petrol,838000
+2021,Maruti,Swift Dzire,30995,2nd Owner,Petrol,844000
+2021,Maruti,Swift Dzire,73804,2nd Owner,Diesel,834000
+2021,Maruti,Swift Dzire,25279,3rd Owner,Petrol,413000
+2021,Maruti,Swift Dzire,35391,2nd Owner,Petrol,1051000
+2021,Maruti,Swift Dzire,20089,2nd Owner,Petrol,569000
+2021,Maruti,Swift Dzire,82310,2nd Owner,Diesel,632000
+2021,Maruti,Swift Dzire,63319,2nd Owner,Diesel,443000
+2021,Maruti,Swift Dzire,45203,1st Owner,Petrol,789000
+2021,Maruti,Swift Dzire,23424,2nd Owner,CNG,761000
+2021,Maruti,Swift Dzire,81347,1st Owner,Petrol,595000
+2021,Maruti,Swift Dzire,67224,1st Owner,Petrol,1004000
+2021,Maruti,Swift Dzire,96059,1st Owner,Petrol,361000
+2021,Maruti,Swift Dzire,38663,1st Owner,Petrol,327000
+2021,Maruti,Swift Dzire,59563,2nd Owner,Petrol,278000
+2021,Maruti,Swift Dzire,54202,1st Owner,CNG,967000
+2021,Maruti,Swift Dzire,11709,2nd Owner,Diesel,449000
+2021,Maruti,Swift Dzire,17167,1st Owner,Petrol,656000
+2021,Maruti,Swift Dzire,30501,1st Owner,CNG,741000
+2021,Maruti,Swift Dzire,67187,1st Owner,CNG,838000
+2017,Hyundai,Creta,99882,1st Owner,Petrol,844000
+2017,Hyundai,Creta,30995,2nd Owner,Petrol,834000
+2017,Hyundai,Creta,73804,2nd Owner,Diesel,413000
+2017,Hyundai,Creta,25279,3rd Owner,Petrol,1051000
+2017,Hyundai,Creta,35391,2nd Owner,Petrol,569000
+2017,Hyundai,Creta,20089,2nd Owner,Petrol,632000
+2017,Hyundai,Creta,82310,2nd Owner,Diesel,443000
+2017,Hyundai,Creta,63319,2nd Owner,Diesel,789000
+2017,Hyundai,Creta,45203,1st Owner,Petrol,761000
+2017,Hyundai,Creta,23424,2nd Owner,CNG,595000
+2017,Hyundai,Creta,81347,1st Owner,Petrol,1004000
+2017,Hyundai,Creta,67224,1st Owner,Petrol,361000
+2017,Hyundai,Creta,96059,1st Owner,Petrol,327000
+2017,Hyundai,Creta,38663,1st Owner,Petrol,278000
+2017,Hyundai,Creta,59563,2nd Owner,Petrol,967000
+2017,Hyundai,Creta,54202,1st Owner,CNG,449000
+2017,Hyundai,Creta,11709,2nd Owner,Diesel,656000
+2017,Hyundai,Creta,17167,1st Owner,Petrol,741000
+2017,Hyundai,Creta,30501,1st Owner,CNG,838000
+2017,Hyundai,Creta,67187,1st Owner,CNG,844000
+2017,Hyundai,Creta,99882,1st Owner,Petrol,834000
+2017,Hyundai,Creta,30995,2nd Owner,Petrol,413000
+2017,Hyundai,Creta,73804,2nd Owner,Diesel,1051000
+2017,Hyundai,Creta,25279,3rd Owner,Petrol,569000
+2017,Hyundai,Creta,35391,2nd Owner,Petrol,632000
+2017,Hyundai,Creta,20089,2nd Owner,Petrol,443000
+2017,Hyundai,Creta,82310,2nd Owner,Diesel,789000
+2017,Hyundai,Creta,63319,2nd Owner,Diesel,761000
+2017,Hyundai,Creta,45203,1st Owner,Petrol,595000
+2017,Hyundai,Creta,23424,2nd Owner,CNG,1004000
+2017,Hyundai,Creta,81347,1st Owner,Petrol,361000
+2017,Hyundai,Creta,67224,1st Owner,Petrol,327000
+2017,Hyundai,Creta,96059,1st Owner,Petrol,278000
+2017,Hyundai,Creta,38663,1st Owner,Petrol,967000
+2017,Hyundai,Creta,59563,2nd Owner,Petrol,449000
+2017,Hyundai,Creta,54202,1st Owner,CNG,656000
+2017,Hyundai,Creta,11709,2nd Owner,Diesel,741000
+2017,Hyundai,Creta,17167,1st Owner,Petrol,838000
+2017,Hyundai,Creta,30501,1st Owner,CNG,844000
+2017,Hyundai,Creta,67187,1st Owner,CNG,834000
+2017,Hyundai,Creta,99882,1st Owner,Petrol,413000
+2017,Hyundai,Creta,30995,2nd Owner,Petrol,1051000
+2017,Hyundai,Creta,73804,2nd Owner,Diesel,569000
+2017,Hyundai,Creta,25279,3rd Owner,Petrol,632000
+2017,Hyundai,Creta,35391,2nd Owner,Petrol,443000
+2017,Hyundai,Creta,20089,2nd Owner,Petrol,789000
+2017,Hyundai,Creta,82310,2nd Owner,Diesel,761000
+2017,Hyundai,Creta,63319,2nd Owner,Diesel,595000
+2017,Hyundai,Creta,45203,1st Owner,Petrol,1004000
+2017,Hyundai,Creta,23424,2nd Owner,CNG,361000
+2017,Hyundai,Creta,81347,1st Owner,Petrol,327000
+2017,Hyundai,Creta,67224,1st Owner,Petrol,278000
+2017,Hyundai,Creta,96059,1st Owner,Petrol,967000
+2017,Hyundai,Creta,38663,1st Owner,Petrol,449000
+2017,Hyundai,Creta,59563,2nd Owner,Petrol,656000
+2017,Hyundai,Creta,54202,1st Owner,CNG,741000
+2017,Hyundai,Creta,11709,2nd Owner,Diesel,838000
+2017,Hyundai,Creta,17167,1st Owner,Petrol,844000
+2017,Hyundai,Creta,30501,1st Owner,CNG,834000
+2017,Hyundai,Creta,67187,1st Owner,CNG,413000
+2015,Hyundai,Xcent,99882,1st Owner,Petrol,1051000
+2015,Hyundai,Xcent,30995,2nd Owner,Petrol,569000
+2015,Hyundai,Xcent,73804,2nd Owner,Diesel,632000
+2015,Hyundai,Xcent,25279,3rd Owner,Petrol,443000
+2015,Hyundai,Xcent,35391,2nd Owner,Petrol,789000
+2015,Hyundai,Xcent,20089,2nd Owner,Petrol,761000
+2015,Hyundai,Xcent,82310,2nd Owner,Diesel,595000
+2015,Hyundai,Xcent,63319,2nd Owner,Diesel,1004000
+2015,Hyundai,Xcent,45203,1st Owner,Petrol,361000
+2015,Hyundai,Xcent,23424,2nd Owner,CNG,327000
+2015,Hyundai,Xcent,81347,1st Owner,Petrol,278000
+2015,Hyundai,Xcent,67224,1st Owner,Petrol,967000
+2015,Hyundai,Xcent,96059,1st Owner,Petrol,449000
+2015,Hyundai,Xcent,38663,1st Owner,Petrol,656000
+2015,Hyundai,Xcent,59563,2nd Owner,Petrol,741000
+2015,Hyundai,Xcent,54202,1st Owner,CNG,838000
+2015,Hyundai,Xcent,11709,2nd Owner,Diesel,844000
+2015,Hyundai,Xcent,17167,1st Owner,Petrol,834000
+2015,Hyundai,Xcent,30501,1st Owner,CNG,413000
+2015,Hyundai,Xcent,67187,1st Owner,CNG,1051000
+2017,Hyundai,Creta,99882,1st Owner,Petrol,569000
+2017,Hyundai,Creta,30995,2nd Owner,Petrol,632000
+2017,Hyundai,Creta,73804,2nd Owner,Diesel,443000
+2017,Hyundai,Creta,25279,3rd Owner,Petrol,789000
+2017,Hyundai,Creta,35391,2nd Owner,Petrol,761000
+2017,Hyundai,Creta,20089,2nd Owner,Petrol,595000
+2017,Hyundai,Creta,82310,2nd Owner,Diesel,1004000
+2017,Hyundai,Creta,63319,2nd Owner,Diesel,361000
+2017,Hyundai,Creta,45203,1st Owner,Petrol,327000
+2017,Hyundai,Creta,23424,2nd Owner,CNG,278000
+2017,Hyundai,Creta,81347,1st Owner,Petrol,967000
+2017,Hyundai,Creta,67224,1st Owner,Petrol,449000
+2017,Hyundai,Creta,96059,1st Owner,Petrol,656000
+2017,Hyundai,Creta,38663,1st Owner,Petrol,741000
+2017,Hyundai,Creta,59563,2nd Owner,Petrol,838000
+2017,Hyundai,Creta,54202,1st Owner,CNG,844000
+2017,Hyundai,Creta,11709,2nd Owner,Diesel,834000
+2017,Hyundai,Creta,17167,1st Owner,Petrol,413000
+2017,Hyundai,Creta,30501,1st Owner,CNG,1051000
+2017,Hyundai,Creta,67187,1st Owner,CNG,569000
+2019,Maruti,New Wagon-R,99882,1st Owner,Petrol,632000
+2019,Maruti,New Wagon-R,30995,2nd Owner,Petrol,443000
+2019,Maruti,New Wagon-R,73804,2nd Owner,Diesel,789000
+2019,Maruti,New Wagon-R,25279,3rd Owner,Petrol,761000
+2019,Maruti,New Wagon-R,35391,2nd Owner,Petrol,595000
+2019,Maruti,New Wagon-R,20089,2nd Owner,Petrol,1004000
+2019,Maruti,New Wagon-R,82310,2nd Owner,Diesel,361000
+2019,Maruti,New Wagon-R,63319,2nd Owner,Diesel,327000
+2019,Maruti,New Wagon-R,45203,1st Owner,Petrol,278000
+2019,Maruti,New Wagon-R,23424,2nd Owner,CNG,967000
+2019,Maruti,New Wagon-R,81347,1st Owner,Petrol,449000
+2019,Maruti,New Wagon-R,67224,1st Owner,Petrol,656000
+2019,Maruti,New Wagon-R,96059,1st Owner,Petrol,741000
+2019,Maruti,New Wagon-R,38663,1st Owner,Petrol,838000
+2019,Maruti,New Wagon-R,59563,2nd Owner,Petrol,844000
+2019,Maruti,New Wagon-R,54202,1st Owner,CNG,834000
+2019,Maruti,New Wagon-R,11709,2nd Owner,Diesel,413000
+2019,Maruti,New Wagon-R,17167,1st Owner,Petrol,1051000
+2019,Maruti,New Wagon-R,30501,1st Owner,CNG,569000
+2019,Maruti,New Wagon-R,67187,1st Owner,CNG,632000
+2016,Hyundai,i20 Active,99882,1st Owner,Petrol,443000
+2016,Hyundai,i20 Active,30995,2nd Owner,Petrol,789000
+2016,Hyundai,i20 Active,73804,2nd Owner,Diesel,761000
+2016,Hyundai,i20 Active,25279,3rd Owner,Petrol,595000
+2016,Hyundai,i20 Active,35391,2nd Owner,Petrol,1004000
+2016,Hyundai,i20 Active,20089,2nd Owner,Petrol,361000
+2016,Hyundai,i20 Active,82310,2nd Owner,Diesel,327000
+2016,Hyundai,i20 Active,63319,2nd Owner,Diesel,278000
+2016,Hyundai,i20 Active,45203,1st Owner,Petrol,967000
+2016,Hyundai,i20 Active,23424,2nd Owner,CNG,449000
+2016,Hyundai,i20 Active,81347,1st Owner,Petrol,656000
+2016,Hyundai,i20 Active,67224,1st Owner,Petrol,741000
+2016,Hyundai,i20 Active,96059,1st Owner,Petrol,838000
+2016,Hyundai,i20 Active,38663,1st Owner,Petrol,844000
+2016,Hyundai,i20 Active,59563,2nd Owner,Petrol,834000
+2016,Hyundai,i20 Active,54202,1st Owner,CNG,413000
+2016,Hyundai,i20 Active,11709,2nd Owner,Diesel,1051000
+2016,Hyundai,i20 Active,17167,1st Owner,Petrol,569000
+2016,Hyundai,i20 Active,30501,1st Owner,CNG,632000
+2016,Hyundai,i20 Active,67187,1st Owner,CNG,443000
+2016,Honda, Amaze,99882,1st Owner,Petrol,789000
+2016,Honda, Amaze,30995,2nd Owner,Petrol,761000
+2016,Honda, Amaze,73804,2nd Owner,Diesel,595000
+2016,Honda, Amaze,25279,3rd Owner,Petrol,1004000
+2016,Honda, Amaze,35391,2nd Owner,Petrol,361000
+2016,Honda, Amaze,20089,2nd Owner,Petrol,327000
+2016,Honda, Amaze,82310,2nd Owner,Diesel,278000
+2016,Honda, Amaze,63319,2nd Owner,Diesel,967000
+2016,Honda, Amaze,45203,1st Owner,Petrol,449000
+2016,Honda, Amaze,23424,2nd Owner,CNG,656000
+2016,Honda, Amaze,81347,1st Owner,Petrol,741000
+2016,Honda, Amaze,67224,1st Owner,Petrol,838000
+2016,Honda, Amaze,96059,1st Owner,Petrol,844000
+2016,Honda, Amaze,38663,1st Owner,Petrol,834000
+2016,Honda, Amaze,59563,2nd Owner,Petrol,413000
+2016,Honda, Amaze,54202,1st Owner,CNG,1051000
+2016,Honda, Amaze,11709,2nd Owner,Diesel,569000
+2016,Honda, Amaze,17167,1st Owner,Petrol,632000
+2016,Honda, Amaze,30501,1st Owner,CNG,443000
+2016,Honda, Amaze,67187,1st Owner,CNG,789000
+2021,Hyundai,AURA,99882,1st Owner,Petrol,761000
+2021,Hyundai,AURA,30995,2nd Owner,Petrol,595000
+2021,Hyundai,AURA,73804,2nd Owner,Diesel,1004000
+2021,Hyundai,AURA,25279,3rd Owner,Petrol,361000
+2021,Hyundai,AURA,35391,2nd Owner,Petrol,327000
+2021,Hyundai,AURA,20089,2nd Owner,Petrol,278000
+2021,Hyundai,AURA,82310,2nd Owner,Diesel,967000
+2021,Hyundai,AURA,63319,2nd Owner,Diesel,449000
+2021,Hyundai,AURA,45203,1st Owner,Petrol,656000
+2021,Hyundai,AURA,23424,2nd Owner,CNG,741000
+2021,Hyundai,AURA,81347,1st Owner,Petrol,838000
+2021,Hyundai,AURA,67224,1st Owner,Petrol,844000
+2021,Hyundai,AURA,96059,1st Owner,Petrol,834000
+2021,Hyundai,AURA,38663,1st Owner,Petrol,413000
+2021,Hyundai,AURA,59563,2nd Owner,Petrol,1051000
+2021,Hyundai,AURA,54202,1st Owner,CNG,569000
+2021,Hyundai,AURA,11709,2nd Owner,Diesel,632000
+2021,Hyundai,AURA,17167,1st Owner,Petrol,443000
+2021,Hyundai,AURA,30501,1st Owner,CNG,789000
+2021,Hyundai,AURA,67187,1st Owner,CNG,761000
+2015,Maruti,Ertiga,99882,1st Owner,Petrol,595000
+2015,Maruti,Ertiga,30995,2nd Owner,Petrol,1004000
+2015,Maruti,Ertiga,73804,2nd Owner,Diesel,361000
+2015,Maruti,Ertiga,25279,3rd Owner,Petrol,327000
+2015,Maruti,Ertiga,35391,2nd Owner,Petrol,278000
+2015,Maruti,Ertiga,20089,2nd Owner,Petrol,967000
+2015,Maruti,Ertiga,82310,2nd Owner,Diesel,449000
+2015,Maruti,Ertiga,63319,2nd Owner,Diesel,656000
+2015,Maruti,Ertiga,45203,1st Owner,Petrol,741000
+2015,Maruti,Ertiga,23424,2nd Owner,CNG,838000
+2015,Maruti,Ertiga,81347,1st Owner,Petrol,844000
+2015,Maruti,Ertiga,67224,1st Owner,Petrol,834000
+2015,Maruti,Ertiga,96059,1st Owner,Petrol,413000
+2015,Maruti,Ertiga,38663,1st Owner,Petrol,1051000
+2015,Maruti,Ertiga,59563,2nd Owner,Petrol,569000
+2015,Maruti,Ertiga,54202,1st Owner,CNG,632000
+2015,Maruti,Ertiga,11709,2nd Owner,Diesel,443000
+2015,Maruti,Ertiga,17167,1st Owner,Petrol,789000
+2015,Maruti,Ertiga,30501,1st Owner,CNG,761000
+2015,Maruti,Ertiga,67187,1st Owner,CNG,595000
+2011,Honda, Accord,99882,1st Owner,Petrol,1004000
+2011,Honda, Accord,30995,2nd Owner,Petrol,361000
+2011,Honda, Accord,73804,2nd Owner,Diesel,327000
+2011,Honda, Accord,25279,3rd Owner,Petrol,278000
+2011,Honda, Accord,35391,2nd Owner,Petrol,967000
+2011,Honda, Accord,20089,2nd Owner,Petrol,449000
+2011,Honda, Accord,82310,2nd Owner,Diesel,656000
+2011,Honda, Accord,63319,2nd Owner,Diesel,741000
+2011,Honda, Accord,45203,1st Owner,Petrol,838000
+2011,Honda, Accord,23424,2nd Owner,CNG,844000
+2011,Honda, Accord,81347,1st Owner,Petrol,834000
+2011,Honda, Accord,67224,1st Owner,Petrol,413000
+2011,Honda, Accord,96059,1st Owner,Petrol,1051000
+2011,Honda, Accord,38663,1st Owner,Petrol,569000
+2011,Honda, Accord,59563,2nd Owner,Petrol,632000
+2011,Honda, Accord,54202,1st Owner,CNG,443000
+2011,Honda, Accord,11709,2nd Owner,Diesel,789000
+2011,Honda, Accord,17167,1st Owner,Petrol,761000
+2011,Honda, Accord,30501,1st Owner,CNG,595000
+2011,Honda, Accord,67187,1st Owner,CNG,1004000
+2017,Honda, WR-V,99882,1st Owner,Petrol,361000
+2017,Honda, WR-V,30995,2nd Owner,Petrol,327000
+2017,Honda, WR-V,73804,2nd Owner,Diesel,278000
+2017,Honda, WR-V,25279,3rd Owner,Petrol,967000
+2017,Honda, WR-V,35391,2nd Owner,Petrol,449000
+2017,Honda, WR-V,20089,2nd Owner,Petrol,656000
+2017,Honda, WR-V,82310,2nd Owner,Diesel,741000
+2017,Honda, WR-V,63319,2nd Owner,Diesel,838000
+2017,Honda, WR-V,45203,1st Owner,Petrol,844000
+2017,Honda, WR-V,23424,2nd Owner,CNG,834000
+2017,Honda, WR-V,81347,1st Owner,Petrol,413000
+2017,Honda, WR-V,67224,1st Owner,Petrol,1051000
+2017,Honda, WR-V,96059,1st Owner,Petrol,569000
+2017,Honda, WR-V,38663,1st Owner,Petrol,632000
+2017,Honda, WR-V,59563,2nd Owner,Petrol,443000
+2017,Honda, WR-V,54202,1st Owner,CNG,789000
+2017,Honda, WR-V,11709,2nd Owner,Diesel,761000
+2017,Honda, WR-V,17167,1st Owner,Petrol,595000
+2017,Honda, WR-V,30501,1st Owner,CNG,1004000
+2017,Honda, WR-V,67187,1st Owner,CNG,361000
+2016,Mahindra,XUV500,99882,1st Owner,Petrol,327000
+2016,Mahindra,XUV500,30995,2nd Owner,Petrol,278000
+2016,Mahindra,XUV500,73804,2nd Owner,Diesel,967000
+2016,Mahindra,XUV500,25279,3rd Owner,Petrol,449000
+2016,Mahindra,XUV500,35391,2nd Owner,Petrol,656000
+2016,Mahindra,XUV500,20089,2nd Owner,Petrol,741000
+2016,Mahindra,XUV500,82310,2nd Owner,Diesel,838000
+2016,Mahindra,XUV500,63319,2nd Owner,Diesel,844000
+2016,Mahindra,XUV500,45203,1st Owner,Petrol,834000
+2016,Mahindra,XUV500,23424,2nd Owner,CNG,413000
+2016,Mahindra,XUV500,81347,1st Owner,Petrol,1051000
+2016,Mahindra,XUV500,67224,1st Owner,Petrol,569000
+2016,Mahindra,XUV500,96059,1st Owner,Petrol,632000
+2016,Mahindra,XUV500,38663,1st Owner,Petrol,443000
+2016,Mahindra,XUV500,59563,2nd Owner,Petrol,789000
+2016,Mahindra,XUV500,54202,1st Owner,CNG,761000
+2016,Mahindra,XUV500,11709,2nd Owner,Diesel,595000
+2016,Mahindra,XUV500,17167,1st Owner,Petrol,1004000
+2016,Mahindra,XUV500,30501,1st Owner,CNG,361000
+2016,Mahindra,XUV500,67187,1st Owner,CNG,327000
+2017,Maruti,Celerio,99882,1st Owner,Petrol,278000
+2017,Maruti,Celerio,30995,2nd Owner,Petrol,967000
+2017,Maruti,Celerio,73804,2nd Owner,Diesel,449000
+2017,Maruti,Celerio,25279,3rd Owner,Petrol,656000
+2017,Maruti,Celerio,35391,2nd Owner,Petrol,741000
+2017,Maruti,Celerio,20089,2nd Owner,Petrol,838000
+2017,Maruti,Celerio,82310,2nd Owner,Diesel,844000
+2017,Maruti,Celerio,63319,2nd Owner,Diesel,834000
+2017,Maruti,Celerio,45203,1st Owner,Petrol,413000
+2017,Maruti,Celerio,23424,2nd Owner,CNG,1051000
+2017,Maruti,Celerio,81347,1st Owner,Petrol,569000
+2017,Maruti,Celerio,67224,1st Owner,Petrol,632000
+2017,Maruti,Celerio,96059,1st Owner,Petrol,443000
+2017,Maruti,Celerio,38663,1st Owner,Petrol,789000
+2017,Maruti,Celerio,59563,2nd Owner,Petrol,761000
+2017,Maruti,Celerio,54202,1st Owner,CNG,595000
+2017,Maruti,Celerio,11709,2nd Owner,Diesel,1004000
+2017,Maruti,Celerio,17167,1st Owner,Petrol,361000
+2017,Maruti,Celerio,30501,1st Owner,CNG,327000
+2017,Maruti,Celerio,67187,1st Owner,CNG,278000
+2012,Maruti,Swift,99882,1st Owner,Petrol,967000
+2012,Maruti,Swift,30995,2nd Owner,Petrol,449000
+2012,Maruti,Swift,73804,2nd Owner,Diesel,656000
+2012,Maruti,Swift,25279,3rd Owner,Petrol,741000
+2012,Maruti,Swift,35391,2nd Owner,Petrol,838000
+2012,Maruti,Swift,20089,2nd Owner,Petrol,844000
+2012,Maruti,Swift,82310,2nd Owner,Diesel,834000
+2012,Maruti,Swift,63319,2nd Owner,Diesel,413000
+2012,Maruti,Swift,45203,1st Owner,Petrol,1051000
+2012,Maruti,Swift,23424,2nd Owner,CNG,569000
+2012,Maruti,Swift,81347,1st Owner,Petrol,632000
+2012,Maruti,Swift,67224,1st Owner,Petrol,443000
+2012,Maruti,Swift,96059,1st Owner,Petrol,789000
+2012,Maruti,Swift,38663,1st Owner,Petrol,761000
+2012,Maruti,Swift,59563,2nd Owner,Petrol,595000
+2012,Maruti,Swift,54202,1st Owner,CNG,1004000
+2012,Maruti,Swift,11709,2nd Owner,Diesel,361000
+2012,Maruti,Swift,17167,1st Owner,Petrol,327000
+2012,Maruti,Swift,30501,1st Owner,CNG,278000
+2012,Maruti,Swift,67187,1st Owner,CNG,967000
+2016,Renault,Kwid,99882,1st Owner,Petrol,449000
+2016,Renault,Kwid,30995,2nd Owner,Petrol,656000
+2016,Renault,Kwid,73804,2nd Owner,Diesel,741000
+2016,Renault,Kwid,25279,3rd Owner,Petrol,838000
+2016,Renault,Kwid,35391,2nd Owner,Petrol,844000
+2016,Renault,Kwid,20089,2nd Owner,Petrol,834000
+2016,Renault,Kwid,82310,2nd Owner,Diesel,413000
+2016,Renault,Kwid,63319,2nd Owner,Diesel,1051000
+2016,Renault,Kwid,45203,1st Owner,Petrol,569000
+2016,Renault,Kwid,23424,2nd Owner,CNG,632000
+2016,Renault,Kwid,81347,1st Owner,Petrol,443000
+2016,Renault,Kwid,67224,1st Owner,Petrol,789000
+2016,Renault,Kwid,96059,1st Owner,Petrol,761000
+2016,Renault,Kwid,38663,1st Owner,Petrol,595000
+2016,Renault,Kwid,59563,2nd Owner,Petrol,1004000
+2016,Renault,Kwid,54202,1st Owner,CNG,361000
+2016,Renault,Kwid,11709,2nd Owner,Diesel,327000
+2016,Renault,Kwid,17167,1st Owner,Petrol,278000
+2016,Renault,Kwid,30501,1st Owner,CNG,967000
+2016,Renault,Kwid,67187,1st Owner,CNG,449000
+2014,Toyota,Innova,99882,1st Owner,Petrol,656000
+2014,Toyota,Innova,30995,2nd Owner,Petrol,741000
+2014,Toyota,Innova,73804,2nd Owner,Diesel,838000
+2014,Toyota,Innova,25279,3rd Owner,Petrol,844000
+2014,Toyota,Innova,35391,2nd Owner,Petrol,834000
+2014,Toyota,Innova,20089,2nd Owner,Petrol,413000
+2014,Toyota,Innova,82310,2nd Owner,Diesel,1051000
+2014,Toyota,Innova,63319,2nd Owner,Diesel,569000
+2014,Toyota,Innova,45203,1st Owner,Petrol,632000
+2014,Toyota,Innova,23424,2nd Owner,CNG,443000
+2014,Toyota,Innova,81347,1st Owner,Petrol,789000
+2014,Toyota,Innova,67224,1st Owner,Petrol,761000
+2014,Toyota,Innova,96059,1st Owner,Petrol,595000
+2014,Toyota,Innova,38663,1st Owner,Petrol,1004000
+2014,Toyota,Innova,59563,2nd Owner,Petrol,361000
+2014,Toyota,Innova,54202,1st Owner,CNG,327000
+2014,Toyota,Innova,11709,2nd Owner,Diesel,278000
+2014,Toyota,Innova,17167,1st Owner,Petrol,967000
+2014,Toyota,Innova,30501,1st Owner,CNG,449000
+2014,Toyota,Innova,67187,1st Owner,CNG,656000
+2012,Volkswagen,Jetta,99882,1st Owner,Petrol,741000
+2012,Volkswagen,Jetta,30995,2nd Owner,Petrol,838000
+2012,Volkswagen,Jetta,73804,2nd Owner,Diesel,844000
+2012,Volkswagen,Jetta,25279,3rd Owner,Petrol,834000
+2012,Volkswagen,Jetta,35391,2nd Owner,Petrol,413000
+2012,Volkswagen,Jetta,20089,2nd Owner,Petrol,1051000
+2012,Volkswagen,Jetta,82310,2nd Owner,Diesel,569000
+2012,Volkswagen,Jetta,63319,2nd Owner,Diesel,632000
+2012,Volkswagen,Jetta,45203,1st Owner,Petrol,443000
+2012,Volkswagen,Jetta,23424,2nd Owner,CNG,789000
+2012,Volkswagen,Jetta,81347,1st Owner,Petrol,761000
+2012,Volkswagen,Jetta,67224,1st Owner,Petrol,595000
+2012,Volkswagen,Jetta,96059,1st Owner,Petrol,1004000
+2012,Volkswagen,Jetta,38663,1st Owner,Petrol,361000
+2012,Volkswagen,Jetta,59563,2nd Owner,Petrol,327000
+2012,Volkswagen,Jetta,54202,1st Owner,CNG,278000
+2012,Volkswagen,Jetta,11709,2nd Owner,Diesel,967000
+2012,Volkswagen,Jetta,17167,1st Owner,Petrol,449000
+2012,Volkswagen,Jetta,30501,1st Owner,CNG,656000
+2012,Volkswagen,Jetta,67187,1st Owner,CNG,741000
+2015,Hyundai,Hundai,99882,1st Owner,Petrol,838000
+2015,Hyundai,Hundai,30995,2nd Owner,Petrol,844000
+2015,Hyundai,Hundai,73804,2nd Owner,Diesel,834000
+2015,Hyundai,Hundai,25279,3rd Owner,Petrol,413000
+2015,Hyundai,Hundai,35391,2nd Owner,Petrol,1051000
+2015,Hyundai,Hundai,20089,2nd Owner,Petrol,569000
+2015,Hyundai,Hundai,82310,2nd Owner,Diesel,632000
+2015,Hyundai,Hundai,63319,2nd Owner,Diesel,443000
+2015,Hyundai,Hundai,45203,1st Owner,Petrol,789000
+2015,Hyundai,Hundai,23424,2nd Owner,CNG,761000
+2015,Hyundai,Hundai,81347,1st Owner,Petrol,595000
+2015,Hyundai,Hundai,67224,1st Owner,Petrol,1004000
+2015,Hyundai,Hundai,96059,1st Owner,Petrol,361000
+2015,Hyundai,Hundai,38663,1st Owner,Petrol,327000
+2015,Hyundai,Hundai,59563,2nd Owner,Petrol,278000
+2015,Hyundai,Hundai,54202,1st Owner,CNG,967000
+2015,Hyundai,Hundai,11709,2nd Owner,Diesel,449000
+2015,Hyundai,Hundai,17167,1st Owner,Petrol,656000
+2015,Hyundai,Hundai,30501,1st Owner,CNG,741000
+2015,Hyundai,Hundai,67187,1st Owner,CNG,838000
+2021,Maruti,Swift Dzire,99882,1st Owner,Petrol,844000
+2021,Maruti,Swift Dzire,30995,2nd Owner,Petrol,834000
+2021,Maruti,Swift Dzire,73804,2nd Owner,Diesel,413000
+2021,Maruti,Swift Dzire,25279,3rd Owner,Petrol,1051000
+2021,Maruti,Swift Dzire,35391,2nd Owner,Petrol,569000
+2021,Maruti,Swift Dzire,20089,2nd Owner,Petrol,632000
+2021,Maruti,Swift Dzire,82310,2nd Owner,Diesel,443000
+2021,Maruti,Swift Dzire,63319,2nd Owner,Diesel,789000
+2021,Maruti,Swift Dzire,45203,1st Owner,Petrol,761000
+2021,Maruti,Swift Dzire,23424,2nd Owner,CNG,595000
+2021,Maruti,Swift Dzire,81347,1st Owner,Petrol,1004000
+2021,Maruti,Swift Dzire,67224,1st Owner,Petrol,361000
+2021,Maruti,Swift Dzire,96059,1st Owner,Petrol,327000
+2021,Maruti,Swift Dzire,38663,1st Owner,Petrol,278000
+2021,Maruti,Swift Dzire,59563,2nd Owner,Petrol,967000
+2021,Maruti,Swift Dzire,54202,1st Owner,CNG,449000
+2021,Maruti,Swift Dzire,11709,2nd Owner,Diesel,656000
+2021,Maruti,Swift Dzire,17167,1st Owner,Petrol,741000
+2021,Maruti,Swift Dzire,30501,1st Owner,CNG,838000
+2021,Maruti,Swift Dzire,67187,1st Owner,CNG,844000
+2017,Hyundai,Creta,99882,1st Owner,Petrol,834000
+2017,Hyundai,Creta,30995,2nd Owner,Petrol,413000
+2017,Hyundai,Creta,73804,2nd Owner,Diesel,1051000
+2017,Hyundai,Creta,25279,3rd Owner,Petrol,569000
+2017,Hyundai,Creta,35391,2nd Owner,Petrol,632000
+2017,Hyundai,Creta,20089,2nd Owner,Petrol,443000
+2017,Hyundai,Creta,82310,2nd Owner,Diesel,789000
+2017,Hyundai,Creta,63319,2nd Owner,Diesel,761000
+2017,Hyundai,Creta,45203,1st Owner,Petrol,595000
+2017,Hyundai,Creta,23424,2nd Owner,CNG,1004000
+2017,Hyundai,Creta,81347,1st Owner,Petrol,361000
+2017,Hyundai,Creta,67224,1st Owner,Petrol,327000
+2017,Hyundai,Creta,96059,1st Owner,Petrol,278000
+2017,Hyundai,Creta,38663,1st Owner,Petrol,967000
+2017,Hyundai,Creta,59563,2nd Owner,Petrol,449000
+2017,Hyundai,Creta,54202,1st Owner,CNG,656000
+2017,Hyundai,Creta,11709,2nd Owner,Diesel,741000
+2017,Hyundai,Creta,17167,1st Owner,Petrol,838000
+2017,Hyundai,Creta,30501,1st Owner,CNG,844000
+2017,Hyundai,Creta,67187,1st Owner,CNG,834000
+2017,Hyundai,Creta,99882,1st Owner,Petrol,413000
+2017,Hyundai,Creta,30995,2nd Owner,Petrol,1051000
+2017,Hyundai,Creta,73804,2nd Owner,Diesel,569000
+2017,Hyundai,Creta,25279,3rd Owner,Petrol,632000
+2017,Hyundai,Creta,35391,2nd Owner,Petrol,443000
+2017,Hyundai,Creta,20089,2nd Owner,Petrol,789000
+2017,Hyundai,Creta,82310,2nd Owner,Diesel,761000
+2017,Hyundai,Creta,63319,2nd Owner,Diesel,595000
+2017,Hyundai,Creta,45203,1st Owner,Petrol,1004000
+2017,Hyundai,Creta,23424,2nd Owner,CNG,361000
+2017,Hyundai,Creta,81347,1st Owner,Petrol,327000
+2017,Hyundai,Creta,67224,1st Owner,Petrol,278000
+2017,Hyundai,Creta,96059,1st Owner,Petrol,967000
+2017,Hyundai,Creta,38663,1st Owner,Petrol,449000
+2017,Hyundai,Creta,59563,2nd Owner,Petrol,656000
+2017,Hyundai,Creta,54202,1st Owner,CNG,741000
+2017,Hyundai,Creta,11709,2nd Owner,Diesel,838000
+2017,Hyundai,Creta,17167,1st Owner,Petrol,844000
+2017,Hyundai,Creta,30501,1st Owner,CNG,834000
+2017,Hyundai,Creta,67187,1st Owner,CNG,413000
+2017,Hyundai,Creta,99882,1st Owner,Petrol,1051000
+2017,Hyundai,Creta,30995,2nd Owner,Petrol,569000
+2017,Hyundai,Creta,73804,2nd Owner,Diesel,632000
+2017,Hyundai,Creta,25279,3rd Owner,Petrol,443000
+2017,Hyundai,Creta,35391,2nd Owner,Petrol,789000
+2017,Hyundai,Creta,20089,2nd Owner,Petrol,761000
+2017,Hyundai,Creta,82310,2nd Owner,Diesel,595000
+2017,Hyundai,Creta,63319,2nd Owner,Diesel,1004000
+2017,Hyundai,Creta,45203,1st Owner,Petrol,361000
+2017,Hyundai,Creta,23424,2nd Owner,CNG,327000
+2017,Hyundai,Creta,81347,1st Owner,Petrol,278000
+2017,Hyundai,Creta,67224,1st Owner,Petrol,967000
+2017,Hyundai,Creta,96059,1st Owner,Petrol,449000
+2017,Hyundai,Creta,38663,1st Owner,Petrol,656000
+2017,Hyundai,Creta,59563,2nd Owner,Petrol,741000
+2017,Hyundai,Creta,54202,1st Owner,CNG,838000
+2017,Hyundai,Creta,11709,2nd Owner,Diesel,844000
+2017,Hyundai,Creta,17167,1st Owner,Petrol,834000
+2017,Hyundai,Creta,30501,1st Owner,CNG,413000
+2017,Hyundai,Creta,67187,1st Owner,CNG,1051000
+2015,Hyundai,Xcent,99882,1st Owner,Petrol,569000
+2015,Hyundai,Xcent,30995,2nd Owner,Petrol,632000
+2015,Hyundai,Xcent,73804,2nd Owner,Diesel,443000
+2015,Hyundai,Xcent,25279,3rd Owner,Petrol,789000
+2015,Hyundai,Xcent,35391,2nd Owner,Petrol,761000
+2015,Hyundai,Xcent,20089,2nd Owner,Petrol,595000
+2015,Hyundai,Xcent,82310,2nd Owner,Diesel,1004000
+2015,Hyundai,Xcent,63319,2nd Owner,Diesel,361000
+2015,Hyundai,Xcent,45203,1st Owner,Petrol,327000
+2015,Hyundai,Xcent,23424,2nd Owner,CNG,278000
+2015,Hyundai,Xcent,81347,1st Owner,Petrol,967000
+2015,Hyundai,Xcent,67224,1st Owner,Petrol,449000
+2015,Hyundai,Xcent,96059,1st Owner,Petrol,656000
+2015,Hyundai,Xcent,38663,1st Owner,Petrol,741000
+2015,Hyundai,Xcent,59563,2nd Owner,Petrol,838000
+2015,Hyundai,Xcent,54202,1st Owner,CNG,844000
+2015,Hyundai,Xcent,11709,2nd Owner,Diesel,834000
+2015,Hyundai,Xcent,17167,1st Owner,Petrol,413000
+2015,Hyundai,Xcent,30501,1st Owner,CNG,1051000
+2015,Hyundai,Xcent,67187,1st Owner,CNG,569000
+2017,Hyundai,Creta,99882,1st Owner,Petrol,632000
+2017,Hyundai,Creta,30995,2nd Owner,Petrol,443000
+2017,Hyundai,Creta,73804,2nd Owner,Diesel,789000
+2017,Hyundai,Creta,25279,3rd Owner,Petrol,761000
+2017,Hyundai,Creta,35391,2nd Owner,Petrol,595000
+2017,Hyundai,Creta,20089,2nd Owner,Petrol,1004000
+2017,Hyundai,Creta,82310,2nd Owner,Diesel,361000
+2017,Hyundai,Creta,63319,2nd Owner,Diesel,327000
+2017,Hyundai,Creta,45203,1st Owner,Petrol,278000
+2017,Hyundai,Creta,23424,2nd Owner,CNG,967000
+2017,Hyundai,Creta,81347,1st Owner,Petrol,449000
+2017,Hyundai,Creta,67224,1st Owner,Petrol,656000
+2017,Hyundai,Creta,96059,1st Owner,Petrol,741000
+2017,Hyundai,Creta,38663,1st Owner,Petrol,838000
+2017,Hyundai,Creta,59563,2nd Owner,Petrol,844000
+2017,Hyundai,Creta,54202,1st Owner,CNG,834000
+2017,Hyundai,Creta,11709,2nd Owner,Diesel,413000
+2017,Hyundai,Creta,17167,1st Owner,Petrol,1051000
+2017,Hyundai,Creta,30501,1st Owner,CNG,569000
+2017,Hyundai,Creta,67187,1st Owner,CNG,632000
+2019,Maruti,New Wagon-R,99882,1st Owner,Petrol,443000
+2019,Maruti,New Wagon-R,30995,2nd Owner,Petrol,789000
+2019,Maruti,New Wagon-R,73804,2nd Owner,Diesel,761000
+2019,Maruti,New Wagon-R,25279,3rd Owner,Petrol,595000
+2019,Maruti,New Wagon-R,35391,2nd Owner,Petrol,1004000
+2019,Maruti,New Wagon-R,20089,2nd Owner,Petrol,361000
+2019,Maruti,New Wagon-R,82310,2nd Owner,Diesel,327000
+2019,Maruti,New Wagon-R,63319,2nd Owner,Diesel,278000
+2019,Maruti,New Wagon-R,45203,1st Owner,Petrol,967000
+2019,Maruti,New Wagon-R,23424,2nd Owner,CNG,449000
+2019,Maruti,New Wagon-R,81347,1st Owner,Petrol,656000
+2019,Maruti,New Wagon-R,67224,1st Owner,Petrol,741000
+2019,Maruti,New Wagon-R,96059,1st Owner,Petrol,838000
+2019,Maruti,New Wagon-R,38663,1st Owner,Petrol,844000
+2019,Maruti,New Wagon-R,59563,2nd Owner,Petrol,834000
+2019,Maruti,New Wagon-R,54202,1st Owner,CNG,413000
+2019,Maruti,New Wagon-R,11709,2nd Owner,Diesel,1051000
+2019,Maruti,New Wagon-R,17167,1st Owner,Petrol,569000
+2019,Maruti,New Wagon-R,30501,1st Owner,CNG,632000
+2019,Maruti,New Wagon-R,67187,1st Owner,CNG,443000
+2016,Hyundai,i20 Active,99882,1st Owner,Petrol,789000
+2016,Hyundai,i20 Active,30995,2nd Owner,Petrol,761000
+2016,Hyundai,i20 Active,73804,2nd Owner,Diesel,595000
+2016,Hyundai,i20 Active,25279,3rd Owner,Petrol,1004000
+2016,Hyundai,i20 Active,35391,2nd Owner,Petrol,361000
+2016,Hyundai,i20 Active,20089,2nd Owner,Petrol,327000
+2016,Hyundai,i20 Active,82310,2nd Owner,Diesel,278000
+2016,Hyundai,i20 Active,63319,2nd Owner,Diesel,967000
+2016,Hyundai,i20 Active,45203,1st Owner,Petrol,449000
+2016,Hyundai,i20 Active,23424,2nd Owner,CNG,656000
+2016,Hyundai,i20 Active,81347,1st Owner,Petrol,741000
+2016,Hyundai,i20 Active,67224,1st Owner,Petrol,838000
+2016,Hyundai,i20 Active,96059,1st Owner,Petrol,844000
+2016,Hyundai,i20 Active,38663,1st Owner,Petrol,834000
+2016,Hyundai,i20 Active,59563,2nd Owner,Petrol,413000
+2016,Hyundai,i20 Active,54202,1st Owner,CNG,1051000
+2016,Hyundai,i20 Active,11709,2nd Owner,Diesel,569000
+2016,Hyundai,i20 Active,17167,1st Owner,Petrol,632000
+2016,Hyundai,i20 Active,30501,1st Owner,CNG,443000
+2016,Hyundai,i20 Active,67187,1st Owner,CNG,789000
+2016,Honda, Amaze,99882,1st Owner,Petrol,761000
+2016,Honda, Amaze,30995,2nd Owner,Petrol,595000
+2016,Honda, Amaze,73804,2nd Owner,Diesel,1004000
+2016,Honda, Amaze,25279,3rd Owner,Petrol,361000
+2016,Honda, Amaze,35391,2nd Owner,Petrol,327000
+2016,Honda, Amaze,20089,2nd Owner,Petrol,278000
+2016,Honda, Amaze,82310,2nd Owner,Diesel,967000
+2016,Honda, Amaze,63319,2nd Owner,Diesel,449000
+2016,Honda, Amaze,45203,1st Owner,Petrol,656000
+2016,Honda, Amaze,23424,2nd Owner,CNG,741000
+2016,Honda, Amaze,81347,1st Owner,Petrol,838000
+2016,Honda, Amaze,67224,1st Owner,Petrol,844000
+2016,Honda, Amaze,96059,1st Owner,Petrol,834000
+2016,Honda, Amaze,38663,1st Owner,Petrol,413000
+2016,Honda, Amaze,59563,2nd Owner,Petrol,1051000
+2016,Honda, Amaze,54202,1st Owner,CNG,569000
+2016,Honda, Amaze,11709,2nd Owner,Diesel,632000
+2016,Honda, Amaze,17167,1st Owner,Petrol,443000
+2016,Honda, Amaze,30501,1st Owner,CNG,789000
+2016,Honda, Amaze,67187,1st Owner,CNG,761000
+2021,Hyundai,AURA,99882,1st Owner,Petrol,595000
+2021,Hyundai,AURA,30995,2nd Owner,Petrol,1004000
+2021,Hyundai,AURA,73804,2nd Owner,Diesel,361000
+2021,Hyundai,AURA,25279,3rd Owner,Petrol,327000
+2021,Hyundai,AURA,35391,2nd Owner,Petrol,278000
+2021,Hyundai,AURA,20089,2nd Owner,Petrol,967000
+2021,Hyundai,AURA,82310,2nd Owner,Diesel,449000
+2021,Hyundai,AURA,63319,2nd Owner,Diesel,656000
+2021,Hyundai,AURA,45203,1st Owner,Petrol,741000
+2021,Hyundai,AURA,23424,2nd Owner,CNG,838000
+2021,Hyundai,AURA,81347,1st Owner,Petrol,844000
+2021,Hyundai,AURA,67224,1st Owner,Petrol,834000
+2021,Hyundai,AURA,96059,1st Owner,Petrol,413000
+2021,Hyundai,AURA,38663,1st Owner,Petrol,1051000
+2021,Hyundai,AURA,59563,2nd Owner,Petrol,569000
+2021,Hyundai,AURA,54202,1st Owner,CNG,632000
+2021,Hyundai,AURA,11709,2nd Owner,Diesel,443000
+2021,Hyundai,AURA,17167,1st Owner,Petrol,789000
+2021,Hyundai,AURA,30501,1st Owner,CNG,761000
+2021,Hyundai,AURA,67187,1st Owner,CNG,595000
+2015,Maruti,Ertiga,99882,1st Owner,Petrol,1004000
+2015,Maruti,Ertiga,30995,2nd Owner,Petrol,361000
+2015,Maruti,Ertiga,73804,2nd Owner,Diesel,327000
+2015,Maruti,Ertiga,25279,3rd Owner,Petrol,278000
+2015,Maruti,Ertiga,35391,2nd Owner,Petrol,967000
+2015,Maruti,Ertiga,20089,2nd Owner,Petrol,449000
+2015,Maruti,Ertiga,82310,2nd Owner,Diesel,656000
+2015,Maruti,Ertiga,63319,2nd Owner,Diesel,741000
+2015,Maruti,Ertiga,45203,1st Owner,Petrol,838000
+2015,Maruti,Ertiga,23424,2nd Owner,CNG,844000
+2015,Maruti,Ertiga,81347,1st Owner,Petrol,834000
+2015,Maruti,Ertiga,67224,1st Owner,Petrol,413000
+2015,Maruti,Ertiga,96059,1st Owner,Petrol,1051000
+2015,Maruti,Ertiga,38663,1st Owner,Petrol,569000
+2015,Maruti,Ertiga,59563,2nd Owner,Petrol,632000
+2015,Maruti,Ertiga,54202,1st Owner,CNG,443000
+2015,Maruti,Ertiga,11709,2nd Owner,Diesel,789000
+2015,Maruti,Ertiga,17167,1st Owner,Petrol,761000
+2015,Maruti,Ertiga,30501,1st Owner,CNG,595000
+2015,Maruti,Ertiga,67187,1st Owner,CNG,1004000
+2011,Honda, Accord,99882,1st Owner,Petrol,361000
+2011,Honda, Accord,30995,2nd Owner,Petrol,327000
+2011,Honda, Accord,73804,2nd Owner,Diesel,278000
+2011,Honda, Accord,25279,3rd Owner,Petrol,967000
+2011,Honda, Accord,35391,2nd Owner,Petrol,449000
+2011,Honda, Accord,20089,2nd Owner,Petrol,656000
+2011,Honda, Accord,82310,2nd Owner,Diesel,741000
+2011,Honda, Accord,63319,2nd Owner,Diesel,838000
+2011,Honda, Accord,45203,1st Owner,Petrol,844000
+2011,Honda, Accord,23424,2nd Owner,CNG,834000
+2011,Honda, Accord,81347,1st Owner,Petrol,413000
+2011,Honda, Accord,67224,1st Owner,Petrol,1051000
+2011,Honda, Accord,96059,1st Owner,Petrol,569000
+2011,Honda, Accord,38663,1st Owner,Petrol,632000
+2011,Honda, Accord,59563,2nd Owner,Petrol,443000
+2011,Honda, Accord,54202,1st Owner,CNG,789000
+2011,Honda, Accord,11709,2nd Owner,Diesel,761000
+2011,Honda, Accord,17167,1st Owner,Petrol,595000
+2011,Honda, Accord,30501,1st Owner,CNG,1004000
+2011,Honda, Accord,67187,1st Owner,CNG,361000
+2017,Honda, WR-V,99882,1st Owner,Petrol,327000
+2017,Honda, WR-V,30995,2nd Owner,Petrol,278000
+2017,Honda, WR-V,73804,2nd Owner,Diesel,967000
+2017,Honda, WR-V,25279,3rd Owner,Petrol,449000
+2017,Honda, WR-V,35391,2nd Owner,Petrol,656000
+2017,Honda, WR-V,20089,2nd Owner,Petrol,741000
+2017,Honda, WR-V,82310,2nd Owner,Diesel,838000
+2017,Honda, WR-V,63319,2nd Owner,Diesel,844000
+2017,Honda, WR-V,45203,1st Owner,Petrol,834000
+2017,Honda, WR-V,23424,2nd Owner,CNG,413000
+2017,Honda, WR-V,81347,1st Owner,Petrol,1051000
+2017,Honda, WR-V,67224,1st Owner,Petrol,569000
+2017,Honda, WR-V,96059,1st Owner,Petrol,632000
+2017,Honda, WR-V,38663,1st Owner,Petrol,443000
+2017,Honda, WR-V,59563,2nd Owner,Petrol,789000
+2017,Honda, WR-V,54202,1st Owner,CNG,761000
+2017,Honda, WR-V,11709,2nd Owner,Diesel,595000
+2017,Honda, WR-V,17167,1st Owner,Petrol,1004000
+2017,Honda, WR-V,30501,1st Owner,CNG,361000
+2017,Honda, WR-V,67187,1st Owner,CNG,327000
+2016,Mahindra,XUV500,99882,1st Owner,Petrol,278000
+2016,Mahindra,XUV500,30995,2nd Owner,Petrol,967000
+2016,Mahindra,XUV500,73804,2nd Owner,Diesel,449000
+2016,Mahindra,XUV500,25279,3rd Owner,Petrol,656000
+2016,Mahindra,XUV500,35391,2nd Owner,Petrol,741000
+2016,Mahindra,XUV500,20089,2nd Owner,Petrol,838000
+2016,Mahindra,XUV500,82310,2nd Owner,Diesel,844000
+2016,Mahindra,XUV500,63319,2nd Owner,Diesel,834000
+2016,Mahindra,XUV500,45203,1st Owner,Petrol,413000
+2016,Mahindra,XUV500,23424,2nd Owner,CNG,1051000
+2016,Mahindra,XUV500,81347,1st Owner,Petrol,569000
+2016,Mahindra,XUV500,67224,1st Owner,Petrol,632000
+2016,Mahindra,XUV500,96059,1st Owner,Petrol,443000
+2016,Mahindra,XUV500,38663,1st Owner,Petrol,789000
+2016,Mahindra,XUV500,59563,2nd Owner,Petrol,761000
+2016,Mahindra,XUV500,54202,1st Owner,CNG,595000
+2016,Mahindra,XUV500,11709,2nd Owner,Diesel,1004000
+2016,Mahindra,XUV500,17167,1st Owner,Petrol,361000
+2016,Mahindra,XUV500,30501,1st Owner,CNG,327000
+2016,Mahindra,XUV500,67187,1st Owner,CNG,278000
+2017,Maruti,Celerio,99882,1st Owner,Petrol,967000
+2017,Maruti,Celerio,30995,2nd Owner,Petrol,449000
+2017,Maruti,Celerio,73804,2nd Owner,Diesel,656000
+2017,Maruti,Celerio,25279,3rd Owner,Petrol,741000
+2017,Maruti,Celerio,35391,2nd Owner,Petrol,838000
+2017,Maruti,Celerio,20089,2nd Owner,Petrol,844000
+2017,Maruti,Celerio,82310,2nd Owner,Diesel,834000
+2017,Maruti,Celerio,63319,2nd Owner,Diesel,413000
+2017,Maruti,Celerio,45203,1st Owner,Petrol,1051000
+2017,Maruti,Celerio,23424,2nd Owner,CNG,569000
+2017,Maruti,Celerio,81347,1st Owner,Petrol,632000
+2017,Maruti,Celerio,67224,1st Owner,Petrol,443000
+2017,Maruti,Celerio,96059,1st Owner,Petrol,789000
+2017,Maruti,Celerio,38663,1st Owner,Petrol,761000
+2017,Maruti,Celerio,59563,2nd Owner,Petrol,595000
+2017,Maruti,Celerio,54202,1st Owner,CNG,1004000
+2017,Maruti,Celerio,11709,2nd Owner,Diesel,361000
+2017,Maruti,Celerio,17167,1st Owner,Petrol,327000
+2017,Maruti,Celerio,30501,1st Owner,CNG,278000
+2017,Maruti,Celerio,67187,1st Owner,CNG,967000
+2012,Maruti,Swift,99882,1st Owner,Petrol,449000
+2012,Maruti,Swift,30995,2nd Owner,Petrol,656000
+2012,Maruti,Swift,73804,2nd Owner,Diesel,741000
+2012,Maruti,Swift,25279,3rd Owner,Petrol,838000
+2012,Maruti,Swift,35391,2nd Owner,Petrol,844000
+2012,Maruti,Swift,20089,2nd Owner,Petrol,834000
+2012,Maruti,Swift,82310,2nd Owner,Diesel,413000
+2012,Maruti,Swift,63319,2nd Owner,Diesel,1051000
+2012,Maruti,Swift,45203,1st Owner,Petrol,569000
+2012,Maruti,Swift,23424,2nd Owner,CNG,632000
+2012,Maruti,Swift,81347,1st Owner,Petrol,443000
+2012,Maruti,Swift,67224,1st Owner,Petrol,789000
+2012,Maruti,Swift,96059,1st Owner,Petrol,761000
+2012,Maruti,Swift,38663,1st Owner,Petrol,595000
+2012,Maruti,Swift,59563,2nd Owner,Petrol,1004000
+2012,Maruti,Swift,54202,1st Owner,CNG,361000
+2012,Maruti,Swift,11709,2nd Owner,Diesel,327000
+2012,Maruti,Swift,17167,1st Owner,Petrol,278000
+2012,Maruti,Swift,30501,1st Owner,CNG,967000
+2012,Maruti,Swift,67187,1st Owner,CNG,449000
+2016,Renault,Kwid,99882,1st Owner,Petrol,656000
+2016,Renault,Kwid,30995,2nd Owner,Petrol,741000
+2016,Renault,Kwid,73804,2nd Owner,Diesel,838000
+2016,Renault,Kwid,25279,3rd Owner,Petrol,844000
+2016,Renault,Kwid,35391,2nd Owner,Petrol,834000
+2016,Renault,Kwid,20089,2nd Owner,Petrol,413000
+2016,Renault,Kwid,82310,2nd Owner,Diesel,1051000
+2016,Renault,Kwid,63319,2nd Owner,Diesel,569000
+2016,Renault,Kwid,45203,1st Owner,Petrol,632000
+2016,Renault,Kwid,23424,2nd Owner,CNG,443000
+2016,Renault,Kwid,81347,1st Owner,Petrol,789000
+2016,Renault,Kwid,67224,1st Owner,Petrol,761000
+2016,Renault,Kwid,96059,1st Owner,Petrol,595000
+2016,Renault,Kwid,38663,1st Owner,Petrol,1004000
+2016,Renault,Kwid,59563,2nd Owner,Petrol,361000
+2016,Renault,Kwid,54202,1st Owner,CNG,327000
+2016,Renault,Kwid,11709,2nd Owner,Diesel,278000
+2016,Renault,Kwid,17167,1st Owner,Petrol,967000
+2016,Renault,Kwid,30501,1st Owner,CNG,449000
+2016,Renault,Kwid,67187,1st Owner,CNG,656000
+2014,Toyota,Innova,99882,1st Owner,Petrol,741000
+2014,Toyota,Innova,30995,2nd Owner,Petrol,838000
+2014,Toyota,Innova,73804,2nd Owner,Diesel,844000
+2014,Toyota,Innova,25279,3rd Owner,Petrol,834000
+2014,Toyota,Innova,35391,2nd Owner,Petrol,413000
+2014,Toyota,Innova,20089,2nd Owner,Petrol,1051000
+2014,Toyota,Innova,82310,2nd Owner,Diesel,569000
+2014,Toyota,Innova,63319,2nd Owner,Diesel,632000
+2014,Toyota,Innova,45203,1st Owner,Petrol,443000
+2014,Toyota,Innova,23424,2nd Owner,CNG,789000
+2014,Toyota,Innova,81347,1st Owner,Petrol,761000
+2014,Toyota,Innova,67224,1st Owner,Petrol,595000
+2014,Toyota,Innova,96059,1st Owner,Petrol,1004000
+2014,Toyota,Innova,38663,1st Owner,Petrol,361000
+2014,Toyota,Innova,59563,2nd Owner,Petrol,327000
+2014,Toyota,Innova,54202,1st Owner,CNG,278000
+2014,Toyota,Innova,11709,2nd Owner,Diesel,967000
+2014,Toyota,Innova,17167,1st Owner,Petrol,449000
+2014,Toyota,Innova,30501,1st Owner,CNG,656000
+2014,Toyota,Innova,67187,1st Owner,CNG,741000
+2012,Volkswagen,Jetta,99882,1st Owner,Petrol,838000
+2012,Volkswagen,Jetta,30995,2nd Owner,Petrol,844000
+2012,Volkswagen,Jetta,73804,2nd Owner,Diesel,834000
+2012,Volkswagen,Jetta,25279,3rd Owner,Petrol,413000
+2012,Volkswagen,Jetta,35391,2nd Owner,Petrol,1051000
+2012,Volkswagen,Jetta,20089,2nd Owner,Petrol,569000
+2012,Volkswagen,Jetta,82310,2nd Owner,Diesel,632000
+2012,Volkswagen,Jetta,63319,2nd Owner,Diesel,443000
+2012,Volkswagen,Jetta,45203,1st Owner,Petrol,789000
+2012,Volkswagen,Jetta,23424,2nd Owner,CNG,761000
+2012,Volkswagen,Jetta,81347,1st Owner,Petrol,595000
+2012,Volkswagen,Jetta,67224,1st Owner,Petrol,1004000
+2012,Volkswagen,Jetta,96059,1st Owner,Petrol,361000
+2012,Volkswagen,Jetta,38663,1st Owner,Petrol,327000
+2012,Volkswagen,Jetta,59563,2nd Owner,Petrol,278000
+2012,Volkswagen,Jetta,54202,1st Owner,CNG,967000
+2012,Volkswagen,Jetta,11709,2nd Owner,Diesel,449000
+2012,Volkswagen,Jetta,17167,1st Owner,Petrol,656000
+2012,Volkswagen,Jetta,30501,1st Owner,CNG,741000
+2012,Volkswagen,Jetta,67187,1st Owner,CNG,838000
+2015,Hyundai,Hundai,99882,1st Owner,Petrol,844000
+2015,Hyundai,Hundai,30995,2nd Owner,Petrol,834000
+2015,Hyundai,Hundai,73804,2nd Owner,Diesel,413000
+2015,Hyundai,Hundai,25279,3rd Owner,Petrol,1051000
+2015,Hyundai,Hundai,35391,2nd Owner,Petrol,569000
+2015,Hyundai,Hundai,20089,2nd Owner,Petrol,632000
+2015,Hyundai,Hundai,82310,2nd Owner,Diesel,443000
+2015,Hyundai,Hundai,63319,2nd Owner,Diesel,789000
+2015,Hyundai,Hundai,45203,1st Owner,Petrol,761000
+2015,Hyundai,Hundai,23424,2nd Owner,CNG,595000
+2015,Hyundai,Hundai,81347,1st Owner,Petrol,1004000
+2015,Hyundai,Hundai,67224,1st Owner,Petrol,361000
+2015,Hyundai,Hundai,96059,1st Owner,Petrol,327000
+2015,Hyundai,Hundai,38663,1st Owner,Petrol,278000
+2015,Hyundai,Hundai,59563,2nd Owner,Petrol,967000
+2015,Hyundai,Hundai,54202,1st Owner,CNG,449000
+2015,Hyundai,Hundai,11709,2nd Owner,Diesel,656000
+2015,Hyundai,Hundai,17167,1st Owner,Petrol,741000
+2015,Hyundai,Hundai,30501,1st Owner,CNG,838000
+2015,Hyundai,Hundai,67187,1st Owner,CNG,844000
+2021,Maruti,Swift Dzire,99882,1st Owner,Petrol,834000
+2021,Maruti,Swift Dzire,30995,2nd Owner,Petrol,413000
+2021,Maruti,Swift Dzire,73804,2nd Owner,Diesel,1051000
+2021,Maruti,Swift Dzire,25279,3rd Owner,Petrol,569000
+2021,Maruti,Swift Dzire,35391,2nd Owner,Petrol,632000
+2021,Maruti,Swift Dzire,20089,2nd Owner,Petrol,443000
+2021,Maruti,Swift Dzire,82310,2nd Owner,Diesel,789000
+2021,Maruti,Swift Dzire,63319,2nd Owner,Diesel,761000
+2021,Maruti,Swift Dzire,45203,1st Owner,Petrol,595000
+2021,Maruti,Swift Dzire,23424,2nd Owner,CNG,1004000
+2021,Maruti,Swift Dzire,81347,1st Owner,Petrol,361000
+2021,Maruti,Swift Dzire,67224,1st Owner,Petrol,327000
+2021,Maruti,Swift Dzire,96059,1st Owner,Petrol,278000
+2021,Maruti,Swift Dzire,38663,1st Owner,Petrol,967000
+2021,Maruti,Swift Dzire,59563,2nd Owner,Petrol,449000
+2021,Maruti,Swift Dzire,54202,1st Owner,CNG,656000
+2021,Maruti,Swift Dzire,11709,2nd Owner,Diesel,741000
+2021,Maruti,Swift Dzire,17167,1st Owner,Petrol,838000
+2021,Maruti,Swift Dzire,30501,1st Owner,CNG,844000
+2021,Maruti,Swift Dzire,67187,1st Owner,CNG,834000
